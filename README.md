@@ -1,6 +1,6 @@
-# Project Name
+# Pizzeria Project 
 
-Replace this readme with your own information about your project. Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+This is a simple project using javascript to support an interaction between a pizzeria and a customer. The customer is guided through several steps in making an order including choosing their food from the menu.  I used if statements and a switch case, prompts and alerts for the execution of the program. 
 
 ## The problem
 
